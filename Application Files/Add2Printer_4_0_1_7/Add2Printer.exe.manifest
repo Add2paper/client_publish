@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\Add2Printer.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Add2Printer" version="4.0.1.33884" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="Add2Printer" version="4.0.1.26207" language="neutral" processorArchitecture="x86" />
     <commandLine file="Add2Printer.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Printer.exe" size="1724416">
-      <assemblyIdentity name="Add2Printer" version="4.0.1.33884" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Printer.exe" size="1817088">
+      <assemblyIdentity name="Add2Printer" version="4.0.1.26207" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nITIpsePFCTKwKAVst6iK3CPfn9jCNR8Paj57LvcQ7g=</dsig:DigestValue>
+        <dsig:DigestValue>+QhQkByTcfsVoIaoNMBZqJQCro+K2ctEhwVUTBZTnR8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -337,13 +337,13 @@
       <dsig:DigestValue>ybSHHAHbqrFsQgua3FovsbGwy9fvy1uXWeik8BPAslM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SpoolLayerAgent.dll" size="1512448">
+  <file name="SpoolLayerAgent.dll" size="1522688">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Si7VWgWWhnThr832gE32IYVjU1dQiYtgr1B5eL5Jljc=</dsig:DigestValue>
+      <dsig:DigestValue>Thnb5chFjioG4xdjFapayxxpp2u/jNOcDL3aU0aXfJk=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
