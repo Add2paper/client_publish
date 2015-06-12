@@ -321,15 +321,7 @@
       <dsig:DigestValue>jIbrxMf/HZid0pIf6uGJ4o4Sus8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Add2Printer64.exe.config" size="1911">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>7FfugWF47fRXkzCB9Xi8v53nkOU=</dsig:DigestValue>
-    </hash>
-  </file>
+  <file name="Add2Printer64.exe.config" size="1911" />
   <file name="Resources\Add2Printer.ico" size="370070">
     <hash>
       <dsig:Transforms>
