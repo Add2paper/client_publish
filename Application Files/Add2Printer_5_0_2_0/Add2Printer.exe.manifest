@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Add2Printer.exe" version="5.0.1.7" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="Add2Printer.exe" version="5.0.2.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="Resources\Add2Printer.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Add2Printer" version="5.0.1.17968" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="Add2Printer" version="5.0.2.18266" language="neutral" processorArchitecture="x86" />
     <commandLine file="Add2Printer.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,7 +44,7 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Printer.exe" size="1985056">
-      <assemblyIdentity name="Add2Printer" version="5.0.1.17968" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Add2Printer" version="5.0.2.18266" language="neutral" processorArchitecture="x86" />
     </dependentAssembly>
   </dependency>
   <dependency>
@@ -313,15 +313,15 @@
   </dependency>
   <file name="Add2Printer.exe.config" size="1911" />
   <file name="Add2Printer64.exe" size="1984032">
+  </file>
+  <file name="Add2Printer64.exe.config" size="1911">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>BgUk5AwArBSw91SlUQ9Dtf4t/Fs=</dsig:DigestValue>
+      <dsig:DigestValue>7FfugWF47fRXkzCB9Xi8v53nkOU=</dsig:DigestValue>
     </hash>
-  </file>
-  <file name="Add2Printer64.exe.config" size="1911">
   </file>
   <file name="Resources\Add2Printer.ico" size="370070">
     <hash>
@@ -332,22 +332,22 @@
       <dsig:DigestValue>GDbfPy/p7U+NUsX0zZeHSY5z40I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SpoolLayerAgent.dll" size="1560096">
+  <file name="SpoolLayerAgent.dll" size="1539616">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>hr9o3HGPU8gyFPi65FlcW1wmH9Y=</dsig:DigestValue>
+      <dsig:DigestValue>BP47IVloCW83lrQvPUOFkPDvW6M=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SpoolLayerAgent64.dll" size="2156064">
+  <file name="SpoolLayerAgent64.dll" size="2086432">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>sZrTm8AvftEkjmEBA2p+l9DEO2g=</dsig:DigestValue>
+      <dsig:DigestValue>AHCUkLncNJiBNF9MtAjLPOAsj0U=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
