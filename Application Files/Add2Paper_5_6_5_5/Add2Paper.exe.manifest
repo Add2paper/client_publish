@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Add2Paper.exe" version="5.6.5.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="Add2Paper.exe" version="5.6.5.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="Addit.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -72,7 +72,7 @@
       <dsig:DigestValue>GDbfPy/p7U+NUsX0zZeHSY5z40I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX64\Add2Printer64.exe" size="2075168" />
+  <file name="DeployX64\Add2Printer64.exe" size="2074656" />
   <file name="DeployX64\Add2Printer64.exe.config" size="920" />
   <file name="DeployX64\GroupControls.dll" size="85504" />
   <file name="DeployX64\GroupControls.xml" size="95175" writeableType="applicationData" />
@@ -86,7 +86,7 @@
   <file name="DeployX64\Microsoft.Threading.Tasks.xml" size="51059" writeableType="applicationData" />
   <file name="DeployX64\Newtonsoft.Json.dll" size="484864" />
   <file name="DeployX64\Newtonsoft.Json.xml" size="514743" writeableType="applicationData" />
-  <file name="DeployX64\SpoolLayerAgent64.dll" size="2185760" />
+  <file name="DeployX64\SpoolLayerAgent64.dll" size="2165792" />
   <file name="DeployX64\System.IO.dll" size="21144" />
   <file name="DeployX64\System.IO.xml" size="134" writeableType="applicationData" />
   <file name="DeployX64\System.Net.Http.dll" size="191152" />
@@ -101,7 +101,7 @@
   <file name="DeployX64\System.Runtime.xml" size="2972" writeableType="applicationData" />
   <file name="DeployX64\System.Threading.Tasks.dll" size="35016" />
   <file name="DeployX64\System.Threading.Tasks.xml" size="33808" writeableType="applicationData" />
-  <file name="DeployX86\Add2Printer.exe" size="2077728" />
+  <file name="DeployX86\Add2Printer.exe" size="2077216" />
   <file name="DeployX86\Add2Printer.exe.config" size="920" />
   <file name="DeployX86\Add2Printer.vshost.application" size="1493" />
   <file name="DeployX86\Add2Printer.vshost.exe.config" size="920" />
@@ -120,7 +120,7 @@
   <file name="DeployX86\Microsoft.Threading.Tasks.xml" size="51059" writeableType="applicationData" />
   <file name="DeployX86\Newtonsoft.Json.dll" size="484864" />
   <file name="DeployX86\Newtonsoft.Json.xml" size="514743" writeableType="applicationData" />
-  <file name="DeployX86\SpoolLayerAgent.dll" size="1561120" />
+  <file name="DeployX86\SpoolLayerAgent.dll" size="1572384" />
   <file name="DeployX86\System.IO.dll" size="21144" />
   <file name="DeployX86\System.IO.xml" size="134" writeableType="applicationData" />
   <file name="DeployX86\System.Net.Http.dll" size="191152" />
