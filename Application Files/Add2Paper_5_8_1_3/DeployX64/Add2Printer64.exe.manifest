@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\Add2Printer.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Add2Printer64" version="5.8.1.24744" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="Add2Printer64" version="5.8.1.27014" language="neutral" processorArchitecture="amd64" />
     <commandLine file="Add2Printer64.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,13 +44,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Printer64.exe" size="2072064">
-      <assemblyIdentity name="Add2Printer64" version="5.8.1.24744" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Add2Printer64" version="5.8.1.27014" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qBYTGvCB2n2LfVnVIzlNGDMXFt4=</dsig:DigestValue>
+        <dsig:DigestValue>qw7CjCvJz8XuGqkGs7J06hgGRtg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -229,13 +229,13 @@
       <dsig:DigestValue>GDbfPy/p7U+NUsX0zZeHSY5z40I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SpoolLayerAgent64.dll" size="2210800">
+  <file name="SpoolLayerAgent64.dll" size="2235888">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>g/wxVjhdCspq7Z3bOt1RWJRg1Vc=</dsig:DigestValue>
+      <dsig:DigestValue>BFYQzy0hv5luwMzgtWeeqbNW2f8=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
