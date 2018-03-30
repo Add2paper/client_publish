@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Add2Paper.exe" version="5.8.1.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="Add2Paper.exe" version="6.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="Addit.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -43,7 +43,7 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Paper.exe" size="753136">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Paper.exe" size="753616">
       <assemblyIdentity name="Add2Paper" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
     </dependentAssembly>
   </dependency>
@@ -69,7 +69,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>GDbfPy/p7U+NUsX0zZeHSY5z40I=</dsig:DigestValue>
+      <dsig:DigestValue>8QGtKFalggTwqHY1KltQvsweh5I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DeployX64\Add2Printer64.application" size="1503">
@@ -81,33 +81,33 @@
       <dsig:DigestValue>S5nVF0Fml+j3wCg18f7Octm2jog=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX64\Add2Printer64.exe" size="2075120" />
-  <file name="DeployX64\Add2Printer64.exe.config" size="920" />
+  <file name="DeployX64\Add2Printer64.exe" size="1451984" />
+  <file name="DeployX64\Add2Printer64.exe.config" size="902" />
   <file name="DeployX64\Add2Printer64.exe.manifest" size="14322">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>7k5ChM/tx32+Dy2qQlgKXv1cnT8=</dsig:DigestValue>
+      <dsig:DigestValue>lJE8RwS/pFyjSZ34l8DYwqujM+4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX64\app.publish\Add2Printer64.exe" size="2072064">
+  <file name="DeployX64\app.publish\Add2Printer64.exe" size="1448960">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>13expKXIJdGq6NBSLOwpQHY3erg=</dsig:DigestValue>
+      <dsig:DigestValue>TNgCjFtDO0Ys8RYVqLDYA3YGL/8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX64\CrossInjector64.exe" size="295936">
+  <file name="DeployX64\CrossInjector64.exe" size="290304">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>UIn00U3LTzrGw4gtV5+Y+Gq7yoQ=</dsig:DigestValue>
+      <dsig:DigestValue>atWYd9GEfHzt5Ovyqw2gGJkGvqQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DeployX64\GroupControls.dll" size="85504" />
@@ -122,7 +122,7 @@
   <file name="DeployX64\Microsoft.Threading.Tasks.xml" size="51059" writeableType="applicationData" />
   <file name="DeployX64\Newtonsoft.Json.dll" size="484864" />
   <file name="DeployX64\Newtonsoft.Json.xml" size="514743" writeableType="applicationData" />
-  <file name="DeployX64\SpoolLayerAgent64.dll" size="2221040" />
+  <file name="DeployX64\SpoolLayerAgent64.dll" size="2257360" />
   <file name="DeployX64\System.IO.dll" size="21144" />
   <file name="DeployX64\System.IO.xml" size="134" writeableType="applicationData" />
   <file name="DeployX64\System.Net.Http.dll" size="191152" />
@@ -146,34 +146,36 @@
       <dsig:DigestValue>48ZnmYUKbkA3CbmiX4bB+sSUQgg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX86\Add2Printer.exe" size="2077680" />
-  <file name="DeployX86\Add2Printer.exe.config" size="920" />
+  <file name="DeployX86\Add2Printer.exe" size="1454032" />
+  <file name="DeployX86\Add2Printer.exe.config" size="902" />
   <file name="DeployX86\Add2Printer.exe.manifest" size="13967">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>xGAIKe40NvofkBPlGR3f1FNLbag=</dsig:DigestValue>
+      <dsig:DigestValue>SkJinn6WzXcLAH6soFhi8sEUqFk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX86\Add2Printer.vshost.exe.config" size="920" />
-  <file name="DeployX86\app.publish\Add2Printer.exe" size="2074624">
+  <file name="DeployX86\Add2Printer.vshost.application" size="1493" />
+  <file name="DeployX86\Add2Printer.vshost.exe.config" size="902" />
+  <file name="DeployX86\Add2Printer.vshost.exe.manifest" size="13967" />
+  <file name="DeployX86\app.publish\Add2Printer.exe" size="1451008">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>AdrPWLje7verdWiflYK0nHxYstk=</dsig:DigestValue>
+      <dsig:DigestValue>IQKf4cvAMV489Gw78/hcYNexrt8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DeployX86\CrossInjector.exe" size="241664">
+  <file name="DeployX86\CrossInjector.exe" size="237056">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>7iBm9veHS4czEhQyPuA05Zt29gM=</dsig:DigestValue>
+      <dsig:DigestValue>lVf4dK1us/ygaWUuW2esIARwFVE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DeployX86\GroupControls.dll" size="85504" />
@@ -188,7 +190,7 @@
   <file name="DeployX86\Microsoft.Threading.Tasks.xml" size="51059" writeableType="applicationData" />
   <file name="DeployX86\Newtonsoft.Json.dll" size="484864" />
   <file name="DeployX86\Newtonsoft.Json.xml" size="514743" writeableType="applicationData" />
-  <file name="DeployX86\SpoolLayerAgent.dll" size="1586160" />
+  <file name="DeployX86\SpoolLayerAgent.dll" size="1628112" />
   <file name="DeployX86\System.IO.dll" size="21144" />
   <file name="DeployX86\System.IO.xml" size="134" writeableType="applicationData" />
   <file name="DeployX86\System.Net.Http.dll" size="191152" />
