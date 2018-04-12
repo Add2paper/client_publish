@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\Add2Printer.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Add2Printer64" version="6.0.0.31692" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="Add2Printer64" version="6.0.1.29612" language="neutral" processorArchitecture="amd64" />
     <commandLine file="Add2Printer64.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Printer64.exe" size="1448960">
-      <assemblyIdentity name="Add2Printer64" version="6.0.0.31692" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Add2Printer64.exe" size="1449472">
+      <assemblyIdentity name="Add2Printer64" version="6.0.1.29612" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>TNgCjFtDO0Ys8RYVqLDYA3YGL/8=</dsig:DigestValue>
+        <dsig:DigestValue>58FFF90ssOVYDEVEwgrJLFG/U9w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -217,7 +217,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>atWYd9GEfHzt5Ovyqw2gGJkGvqQ=</dsig:DigestValue>
+      <dsig:DigestValue>q+Ys7Tv0ueWxI++wBK01nMiybSc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Add2Printer.ico" size="370070">
@@ -229,13 +229,13 @@
       <dsig:DigestValue>8QGtKFalggTwqHY1KltQvsweh5I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SpoolLayerAgent64.dll" size="2257360">
+  <file name="SpoolLayerAgent64.dll" size="2251216">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>IcQw3QeUJag201WdQ7agrIncTvo=</dsig:DigestValue>
+      <dsig:DigestValue>VCIDgJKDG7HuNo+plNoWyeiUXWM=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
